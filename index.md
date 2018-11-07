@@ -5,14 +5,12 @@ layout: landing-page
 heading: TinyUtility
 partners: []
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
-  icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
-  icon: "/uploads/2017/11/13/biotech.png"
+- description: Dope travel apps
+  heading: Travel
+  icon: "/uploads/2018/11/07/travel.png"
+- description: Be productive as hell
+  heading: Productivity
+  icon: "/uploads/2018/11/07/productivity.jpeg"
 sub_heading: Small apps for your BIG problems
 textline: |-
   TinyUtility
